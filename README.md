@@ -3,7 +3,7 @@
 
 # Weather App
 
-A simple web app that shows real time weather information for any city in the world.
+A real-time weather app that shows weather information for any city in the world.
 
 
 
